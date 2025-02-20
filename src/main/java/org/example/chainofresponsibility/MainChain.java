@@ -18,4 +18,4 @@ public class MainChain {
         tenente.verificaStipendio(3500);
     }
 }
-
+//ciao
